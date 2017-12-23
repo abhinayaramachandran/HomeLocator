@@ -18,7 +18,7 @@ Home Locator helps the user locate a home by
 ## How to run ?
 
 Clone the repository into your htdocs diretory under xampp. 
-Insert your API keys for Google maps and Zillow API in map.js.
+Insert your API keys for Google maps in map.html and Zillow API in map.js.
 Run Apache server
 Open map.html on the browser
 
