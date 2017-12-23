@@ -1,5 +1,5 @@
 # Home Locator
-PHP, Bootstrap, Ebay Commerce Network API
+JavaScript, Zillow and Google Maps API
 
 Home Locator helps the user locate a home by
         - searching the address (OR)
