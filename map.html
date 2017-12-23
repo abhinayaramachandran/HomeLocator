@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<!-- 
+    Student Name: Abhinaya Ramachandran
+-->
+<html lang="en">
+  <head>
+    <title>Web Mashup: Display House Prices on a Map</title>
+    <meta charset="utf-8"/>
+    <script type="text/javascript" src="map.js"></script>
+    <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAlgYxio0_Zf9UxdNzdCfqZNQhN23tbDmw">
+    </script>
+  </head>
+  <body onload="initialize();">
+    <form>
+       <label>House address: <input type="text" id="address" style="width:  500px;"/></label>
+       <input type="button" onclick="sendRequest();" value="Display Info"/>
+       <input type="reset" />
+    </form>
+    <div id="map" style="width: 600px; height: 500px;"></div><br/>
+    <div id="output">&nbsp;</div>
+  </body>
+</html>
