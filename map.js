@@ -1,10 +1,10 @@
 /*
-* Web Mashup - Zillow API and Google Maps
-*  Abhinaya Ramachandran : 1001268347
+* 
+*  author: Abhinaya Ramachandran 
 */
 
-// Zillow API
-var zwsid = "X1-ZWz1g1mdgb7s3v_8w9nb";
+// Zillow API key here
+var zwsid = ""; 
 
 
 var request = new XMLHttpRequest();
