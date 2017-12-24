@@ -14,6 +14,8 @@ Home Locator helps the user locate a home by
 
  All the locations that the user has searched are listed in the text area.
 
+![alt HomeLocator](screenshots/HomeLocator.JPG "Description goes here")
+
 
 ## How to run ?
 
